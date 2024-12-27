@@ -1,5 +1,6 @@
 ## <p align="center"> Recovery DT for Samsung Galaxy A10</p>
 
+![ae-galaxy-a10-a105-sm-a105fzkgxsg-frontblack-thumb-155152904](https://github.com/user-attachments/assets/d2e013c4-60b4-4bb8-9ff4-920dd2f325ba)
 
 | Basics  | Specifications sheet|
 |-------------|-----------|
